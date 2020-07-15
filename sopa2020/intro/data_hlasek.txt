@@ -1,0 +1,8 @@
+plocha#Zadejte velikost hraci plochy
+uvod1#Vítáme Vás v naší báječné hře.
+uvod2#Seberte všechny želvy a zůstaňte ve čtverci.
+uvod3#Používejte klávesy A a D ke změně směru.
+sebrano#Sebranych želv
+konec_win#To je konec. Sebral jsi všechny želvy, gratuluji!
+konec_q#Konec hry.
+konec_out#Dostal jsi se mimo hrací pole. Konec hry.
