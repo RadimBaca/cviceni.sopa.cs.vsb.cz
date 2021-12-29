@@ -1,2 +1,2 @@
-replaced test 
+replaced test 3
 new line
